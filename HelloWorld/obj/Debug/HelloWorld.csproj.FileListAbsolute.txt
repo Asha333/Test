@@ -1,0 +1,6 @@
+c:\users\ahh913969\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\bin\HelloWorld.dll
+c:\users\ahh913969\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+c:\users\ahh913969\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\bin\EntityFramework.dll
+c:\users\ahh913969\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\bin\EntityFramework.xml
+c:\users\ahh913969\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+c:\users\ahh913969\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
